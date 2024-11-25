@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noel! :3</h1>
 <h3 align="center">I'm a student at 42 Heilbronn, game artist and electronic music ethusiast.</h3>
 
-- ✍ Currently working on **fract-ol**, a fractal visualizer using MiniLibX
+- ✍ Currently working on **Minishell**, a simple shell program written in C
 
 - 🎄 Excited to participate in this year's [Advent of Code](https://adventofcode.com/)
 
@@ -9,12 +9,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,vscode,c,cpp,cs,unity" />
+    <img src="https://skillicons.dev/icons?i=bash,git,vscode,c,cpp,cs,unity,unreal,dotnet" />
   </a>
 </p>
 
 
-### ⚙️ &nbsp;GitHub Statistics
+### 📊 &nbsp;GitHub Statistics
 
 <p align="center">
 <a href="https://github.com/N03l-MG">
