@@ -3,13 +3,11 @@
 
 - ✍ Currently working on **Minishell**, a simple shell program written in C
 
-- 🎄 Excited to participate in this year's [Advent of Code](https://adventofcode.com/)
-
 ### 🔧 &nbsp;My Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,vscode,c,cpp,cs,unity,unreal,dotnet" />
+    <img src="https://skillicons.dev/icons?i=bash,git,vscode,c,cpp,cs,unity,unreal,dotnet,photoshop,neovim,obsidian" />
   </a>
 </p>
 
