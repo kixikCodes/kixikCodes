@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noel! :3</h1>
 <h3 align="center">I'm a student at 42 Heilbronn, game artist and electronic music ethusiast.</h3>
 
-- ✍ Currently working on **Minishell**, a simple shell program written in C
-
-### 🔧 &nbsp;My Skills
+### 🔧 &nbsp;My Software Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -11,6 +9,13 @@
   </a>
 </p>
 
+### 📚 &nbsp;Some Notable Projects
+
+- [Advent of Code 2024 in C#](https://github.com/N03l-MG/AdventOfCode2024)
+- [minishell (42 project)](https://github.com/N03l-MG/minishell)
+- [fract-ol (42 project)](https://github.com/N03l-MG/fract-ol)
+- [push_swap (42 project)](https://github.com/N03l-MG/push_swap)
+- "Abiogenesis" (work-in-progress game prototype, no repo yet!)
 
 ### 📊 &nbsp;GitHub Statistics
 
