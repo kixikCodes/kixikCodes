@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Noel! :3</h1>
 <h3 align="center">I'm a student at 42 Heilbronn, game artist and electronic music ethusiast.</h3>
 
-### 🔧 &nbsp;My Software Skills
+### 🔧 &nbsp;My Toolbox
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,vscode,cmake,c,cpp,cs,unity,unreal,dotnet,photoshop,neovim,obsidian" />
+    <p>Tools/Frameworks:</p>
+    <img src="https://skillicons.dev/icons?i=git,cmake,dotnet,markdown,notion" />
+    <p>Software:</p>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,obsidian,unity,unreal,photoshop" />
+    <p>Languages:</p>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,html,css" />
   </a>
 </p>
 
