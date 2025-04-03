@@ -16,10 +16,11 @@
 
 ### 📚 &nbsp;Some Notable Projects
 
+- [miniRT (42 ray-tracer)](https://github.com/N03l-MG/miniRT)
+- [minishell (42 shell)](https://github.com/N03l-MG/minishell)
+- [fract-ol (42 fractal visualizer)](https://github.com/N03l-MG/fract-ol)
+- [push_swap (42 stack sorting challenge)](https://github.com/N03l-MG/push_swap)
 - [Advent of Code 2024 in C#](https://github.com/N03l-MG/AdventOfCode2024)
-- [minishell (42 project)](https://github.com/N03l-MG/minishell)
-- [fract-ol (42 project)](https://github.com/N03l-MG/fract-ol)
-- [push_swap (42 project)](https://github.com/N03l-MG/push_swap)
 - "Abiogenesis" (work-in-progress game prototype, no repo yet!)
 
 ### 📊 &nbsp;GitHub Statistics
