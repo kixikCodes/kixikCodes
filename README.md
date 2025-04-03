@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noel! :3</h1>
+<h1 align="center">Hi 👋, I'm kixikCodes</h1>
 <h3 align="center">I'm a student at 42 Heilbronn, game artist and electronic music ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
