@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm</h1>
-![KIXIK CODES](logo.svg)
+<p align="center">
+  <img src="logo.png" alt="Logo" width="800"/>
+</p>
 <h3 align="center">I'm a student at 42 Heilbronn, game artist and electronic music ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
