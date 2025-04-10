@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180">
-  <text x="10" y="20" font-family="monospace" font-size="16" fill="#db214c">██╗  ██╗██╗██╗  ██╗██╗██╗  ██╗     ██████╗ ██████╗ ██████╗ ███████╗███████╗</text>
-  <text x="10" y="40" font-family="monospace" font-size="16" fill="#cc3f59">██║ ██╔╝██║╚██╗██╔╝██║██║ ██╔╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝</text>
-  <text x="10" y="60" font-family="monospace" font-size="16" fill="#b04d6a">█████╔╝ ██║ ╚███╔╝ ██║█████╔╝     ██║     ██║   ██║██║  ██║█████╗  ███████╗</text>
-  <text x="10" y="80" font-family="monospace" font-size="16" fill="#a07a8d">██╔═██╗ ██║ ██╔██╗ ██║██╔═██╗     ██║     ██║   ██║██║  ██║██╔══╝  ╚════██║</text>
-  <text x="10" y="100" font-family="monospace" font-size="16" fill="#addac1">██║  ██╗██║██╔╝ ██╗██║██║  ██╗    ╚██████╗╚██████╔╝██████╔╝███████╗███████║</text>
-  <text x="10" y="120" font-family="monospace" font-size="16" fill="#7fffd4">╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝</text>
+  <text x="10" y="20" font-family="monospace" font-size="16" fill="#db214c" text-anchor="start"> ██╗  ██╗██╗██╗  ██╗██╗██╗  ██╗     ██████╗ ██████╗ ██████╗ ███████╗███████╗</text>
+  <text x="10" y="40" font-family="monospace" font-size="16" fill="#cc3f59" text-anchor="start"> ██║ ██╔╝██║╚██╗██╔╝██║██║ ██╔╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝</text>
+  <text x="10" y="60" font-family="monospace" font-size="16" fill="#b04d6a" text-anchor="start"> █████╔╝ ██║ ╚███╔╝ ██║█████╔╝     ██║     ██║   ██║██║  ██║█████╗  ███████╗</text>
+  <text x="10" y="80" font-family="monospace" font-size="16" fill="#a07a8d" text-anchor="start"> ██╔═██╗ ██║ ██╔██╗ ██║██╔═██╗     ██║     ██║   ██║██║  ██║██╔══╝  ╚════██║</text>
+  <text x="10" y="100" font-family="monospace" font-size="16" fill="#addac1" text-anchor="start">██║  ██╗██║██╔╝ ██╗██║██║  ██╗    ╚██████╗╚██████╔╝██████╔╝███████╗███████║</text>
+  <text x="10" y="120" font-family="monospace" font-size="16" fill="#7fffd4" text-anchor="start">╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝</text>
 </svg>
