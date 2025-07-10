@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm</h1>
+<h1 align="center">You've reached the portfolio of</h1>
 <p align="center">
   <img src="logo.png" alt="Logo" width="800"/>
 </p>
-<h3 align="center">I'm a student at 42 Heilbronn, game artist and electronic music ethusiast.</h3>
+<h3 align="center">I'm a CS student at 42 Heilbronn, (ex) concept artist and hobby electronic music production ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
 
@@ -17,16 +17,16 @@
   </a>
 </p>
 
-### 📚 &nbsp;Some Notable Projects
+### 📚 &nbsp;Some Notable Projects (mostly all 42 curriculum for now)
 
-- [miniRT (42 ray-tracer)](https://github.com/N03l-MG/miniRT)
-- [minishell (42 shell)](https://github.com/N03l-MG/minishell)
-- [fract-ol (42 fractal visualizer)](https://github.com/N03l-MG/fract-ol)
-- [push_swap (42 stack sorting challenge)](https://github.com/N03l-MG/push_swap)
-- [Advent of Code 2024 in C#](https://github.com/N03l-MG/AdventOfCode2024)
-- "Abiogenesis" (work-in-progress game prototype, no repo yet!)
+- [Webserv (42)](https://github.com/N03l-MG/webserv)
+- [miniRT (42)](https://github.com/N03l-MG/miniRT)
+- [minishell (42)](https://github.com/N03l-MG/minishell)
+- [fract-ol (42)](https://github.com/N03l-MG/fract-ol)
+- [Advent of Code 2024 (in C#)](https://github.com/N03l-MG/AdventOfCode2024)
+- The game soundtrack to [this dude's](https://github.com/Cimex404) upcoming banger game (wishlist on Steam now!!!!!) 🤫
 
-### 📊 &nbsp;GitHub Statistics
+### 📊 &nbsp;GitHub Stats
 
 <p align="center">
 <a href="https://github.com/N03l-MG">
