@@ -29,8 +29,8 @@
 ### 📊 &nbsp;GitHub Stats
 
 <p align="center">
-<a href="https://github.com/N03l-MG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N03l-MG&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N03l-MG&layout=compact&langs_count=4&theme=radical"/>
+<a href="https://github.com/kixikCodes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kixikCodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kixikCodes&layout=compact&langs_count=4&theme=radical"/>
 </a>
 </p>
