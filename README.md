@@ -9,11 +9,11 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <p>Tools/Frameworks:</p>
-    <img src="https://skillicons.dev/icons?i=git,docker,cmake,dotnet,markdown,notion" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cmake,dotnet,npm,nodejs,markdown" />
     <p>Software:</p>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,obsidian,unity,unreal,photoshop" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,obsidian,unity,unreal,photoshop,notion" />
     <p>Languages:</p>
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 - [minishell (42)](https://github.com/N03l-MG/minishell)
 - [fract-ol (42)](https://github.com/N03l-MG/fract-ol)
 - [Advent of Code 2024 (in C#)](https://github.com/N03l-MG/AdventOfCode2024)
-- The game soundtrack to [this dude's](https://github.com/Cimex404) upcoming banger game (wishlist on Steam now!!!!!) 🤫
+- The game soundtrack to [Cimex's](https://github.com/Cimex404) upcoming banger game (wishlist on Steam now!!!!!) 🤫
 
 ### 📊 &nbsp;GitHub Stats
 
