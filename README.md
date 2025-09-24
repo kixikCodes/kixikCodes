@@ -2,7 +2,7 @@
 <p align="center">
   <img src="logo.png" alt="Logo" width="800"/>
 </p>
-<h3 align="center">I'm a CS student at 42 Heilbronn, (ex) concept artist and hobby electronic music production ethusiast.</h3>
+<h3 align="center">I'm a CS student at 42, (ex) concept artist and hobby electronic music production ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
 
