@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <p>Tools/Frameworks:</p>
-    <img src="https://skillicons.dev/icons?i=git,docker,cmake,dotnet,npm,nodejs,markdown" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cmake,dotnet,npm,nodejs,markdown,vite" />
     <p>Software:</p>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,obsidian,unity,unreal,photoshop,notion" />
     <p>Languages:</p>
