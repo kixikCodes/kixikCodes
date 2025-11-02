@@ -2,7 +2,7 @@
 <p align="center">
   <img src="logo.png" alt="Logo" width="800"/>
 </p>
-<h3 align="center">I'm a CS student at 42, (ex) concept artist and hobby electronic music production ethusiast.</h3>
+<h3 align="center">I'm a CompSci student at 42, (ex)concept / 3D artist and hobby electronic music production ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
 
@@ -19,11 +19,11 @@
 
 ### 📚 &nbsp;Some Notable Projects (mostly all 42 curriculum for now)
 
-- [Webserv (42)](https://github.com/N03l-MG/webserv)
-- [miniRT (42)](https://github.com/N03l-MG/miniRT)
-- [minishell (42)](https://github.com/N03l-MG/minishell)
-- [fract-ol (42)](https://github.com/N03l-MG/fract-ol)
-- [Advent of Code 2024 (in C#)](https://github.com/N03l-MG/AdventOfCode2024)
+- [ft_transcendence (42)](https://github.com/kixikCodes/ft_transcendence)
+- [Webserv (42)](https://github.com/kixikCodes/webserv)
+- [miniRT (42)](https://github.com/kixikCodes/miniRT)
+- [minishell (42)](https://github.com/kixikCodes/minishell)
+- [fract-ol (42)](https://github.com/kixikCodes/fract-ol)
 - The game soundtrack to [Cimex's](https://github.com/Cimex404) upcoming banger game (wishlist on Steam now!!!!!) 🤫
 
 ### 📊 &nbsp;GitHub Stats
