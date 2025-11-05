@@ -1,4 +1,4 @@
-<h1 align="center">You've reached the portfolio of</h1>
+<h1 align="center">Welcome to the profile of</h1>
 <p align="center">
   <img src="logo.png" alt="Logo" width="800"/>
 </p>
@@ -17,16 +17,21 @@
   </a>
 </p>
 
-### 📚 &nbsp;Some Notable Projects (mostly all 42 curriculum for now)
-
+### 📚 &nbsp;Notable 42 Core Projects
+Some stuff I've done as a student I am proud of.
 - [ft_transcendence (42)](https://github.com/kixikCodes/ft_transcendence)
 - [Webserv (42)](https://github.com/kixikCodes/webserv)
 - [miniRT (42)](https://github.com/kixikCodes/miniRT)
 - [minishell (42)](https://github.com/kixikCodes/minishell)
-- [fract-ol (42)](https://github.com/kixikCodes/fract-ol)
-- The game soundtrack to [Cimex's](https://github.com/Cimex404) upcoming banger game (wishlist on Steam now!!!!!) 🤫
 
-### 📊 &nbsp;GitHub Stats
+### 🧪 &nbsp;Personal Projects
+All still work in progress at the moment or coming up.
+- Particle Sandbox (not public yet)
+- LogicGates (not public yet)
+- Advent of Code 2025 in Python (upcoming!)
+- The soundtrack to [Cimex's](https://github.com/Cimex404) upcoming game... 🤫
+
+### 📊 &nbsp;Profile Stats
 
 <p align="center">
 <a href="https://github.com/kixikCodes">
