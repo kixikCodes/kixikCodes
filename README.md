@@ -28,7 +28,7 @@ Some stuff I've done as a student I am proud of.
 All still work in progress at the moment or coming up.
 - Particle Sandbox (not public yet)
 - [BotC Gamemaster](https://github.com/kixikCodes/BOTC_Gamemaster)
-- Advent of Code 2025 in Python (upcoming!)
+- [Advent of Code 2025](https://github.com/kixikCodes/AdventOfCode2025)
 - The soundtrack to [Cimex's](https://github.com/Cimex404) upcoming game... 🤫
 
 ### 📊 &nbsp;Profile Stats
